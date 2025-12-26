@@ -74,6 +74,21 @@ These slicers allow users to drill into specific customer segments.
 Navigation buttons enable a structured analytical flow, similar to enterprise dashboards.
 
 ---
+## 📊 Dashboard Preview
+
+### 🔹 Summary Dashboard
+<img width="1293" height="740" alt="image" src="https://github.com/user-attachments/assets/2ac019aa-2b02-427a-8b32-16eafdc404f2" />
+
+
+### 🔹 Loan Analysis
+<img width="1298" height="727" alt="image" src="https://github.com/user-attachments/assets/b71c0fdb-8673-4003-a52c-7a599d73add3" />
+
+
+### 🔹 Deposit Analysis
+<img width="1298" height="724" alt="image" src="https://github.com/user-attachments/assets/8ec00e9d-ee74-4e8c-9ae4-1fd51bdb8a32" />
+
+### 🔹 Summary
+<img width="1298" height="725" alt="image" src="https://github.com/user-attachments/assets/f55f5ff3-c07a-483d-adff-f8400175e9b7" />
 
 ## 🛠️ Tools & Technologies Used
 
